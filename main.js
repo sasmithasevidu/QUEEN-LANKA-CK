@@ -46,7 +46,7 @@ const starts = async (hyper = new WAConnection()) => {
   
     hyper.logger.level = 'warn'
     hyper.version = [2, 2143, 3] 
-    hyper.browserDescription = ["Queen Alexa", "Safari", "3.0"];
+    hyper.browserDescription = ["Queen Lanka", "safari", "3.0"];
 
     hyper.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr, bro, make WhatsApp 👍 '))
@@ -129,9 +129,9 @@ const imageToBase64 = require('image-to-base64')
        
 
         buttons = [
-          { buttonId: `h`, buttonText: { displayText: "nice to meet you" }, type: 1 },
+          { buttonId: `h`, buttonText: { displayText: "nice to meet you" }, type: 3 },
                     { buttonId: `t`, buttonText: { displayText: "which person are you" }, type: 1 },
-                     { buttonId: `g`, buttonText: { displayText: "girl/boy" }, type: 1 },
+                     { buttonId: `g`, buttonText: { displayText: "girl/boy" }, type: 3 },
         ];         
         imageMsg = (
           await hyper.prepareMessageMedia(buff, "imageMessage", {
@@ -164,7 +164,7 @@ const imageToBase64 = require('image-to-base64')
 
                buff = await getBuffer(`https://fdz-app.herokuapp.com/api/maker/goodbye?name=${anu_user}&picurl=${imge}&namegrp=${encodeURI(mdata.subject)}&imggrp=${ime}&member=@${anu_user}&picbg=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_nUY-WcxLBvTRJPNBUKhqWA6LdZCmZG75A&usqp=CAU`);
         buttons = [
-          { buttonId: `y`, buttonText: { displayText: "Good Bye👋" }, type: 1 },
+          { buttonId: `y`, buttonText: { displayText: "ගියා නේහ🤗...කමක්නෑ තරහක් නෑ මට👋" }, type: 3 },
         ];
         imageMsg = (
           await hyper.prepareMessageMedia(buff, "imageMessage", {
@@ -198,7 +198,7 @@ const imageToBase64 = require('image-to-base64')
             "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg";
         }
         let buff = await getBuffer(ppimg);
-        teks = `@${num.split("@")[0]} Promoted`;
+        teks = `@${num.split("@")[0]} Promoted(ඇඩිමින් දූරය සදහා දිවුරුම් දුන්නා)`;
         hyper.sendMessage(mdata.id, teks, MessageType.text);
       }
 

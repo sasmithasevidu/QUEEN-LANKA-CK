@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "Queen-Lanka",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "Queen-Lanka",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -56,5 +56,5 @@
   "author": "Queen-Alexa",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/HYPER-MOD"
+  "homepage": "https://github.com/sasmithasevidu"
 }

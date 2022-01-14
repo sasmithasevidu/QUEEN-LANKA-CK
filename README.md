@@ -1,7 +1,5 @@
 # Queen Lanka
 
-# Queen Lanka
-
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=33&width=890&lines=Click+On+Install+The+queen+lanka+Bot."
             alt="Typing SVG"
@@ -9,9 +7,7 @@
     </a>
 </p>
 
-</a>
-    </a>
-![logo](https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg)
+    ![logo](https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg)
 <h1 align="center"><b> 🧚‍♀️QUEEN LANKA 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 

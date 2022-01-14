@@ -1,4 +1,5 @@
-#QUEEN-LANKA-CK
+<h1 align="center"><b> 👒QUEEN LANKAl(C-K)👒 </b></h1>
+
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=33&width=890&lines=Click+On+Install+The+queen+lanka+Bot."

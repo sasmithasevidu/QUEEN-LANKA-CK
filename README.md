@@ -23,8 +23,9 @@
 # ```ALEXA-BUG-BOT```
 <p align="center">
 
-#`QR CODE SCANIN        
-[`🧚‍♀qr code scanin👒`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+#`QR CODE SCANIN  
+        
+[`qr code scanin`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 

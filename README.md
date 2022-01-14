@@ -8,7 +8,7 @@
 </p>
 
     
-<h1 align="center"><b> 🧚‍♀️QUEEN LANKA 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🧚‍♀️QUEEN LANKA(ᴠɪᴘ) </b></h1>
 
 
 <a href="https://Wa.me/+94702256963">
@@ -23,7 +23,7 @@
 # ```ALEXA-BUG-BOT```
 <p align="center">
 
-#`QR CODE SCANIN  
+## `QR CODE SCANIN`
         
 [`qr code scanin`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 

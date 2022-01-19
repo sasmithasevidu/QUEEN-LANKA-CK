@@ -33,14 +33,14 @@ QUEEN LANKA bot install කරගැනීමට ඔබට උපාංග ද�
 ```      
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/QUEEN-LANKA-CK)
-# ```ALEXA-BUG-BOT```
+
 <p align="center">
 
 ## `QR CODE SCANIN`
         
 [`qr code scanin`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
-## `CHANGE SESSION`
+## `SESSION`
 
 [`Click Here`](https://github.com/sasmithasevidu/QUEEN-LANKA-CK/blob/main/session.json#L1)
 

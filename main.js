@@ -33,7 +33,7 @@ const { wait,simih,getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom,
 
 const { color } = require('./lib/color')
 const clc = require('chalk')
-const setting = JSON.parse(fs.readFileSync('./settings.json'))
+const setting = JSON.parse(fs.readFileSync('./qr settings key.json'))
 const { version, bugs } = require('./package.json')
 
 //ngak penting tapi jangan lu hapus
@@ -72,7 +72,7 @@ fetch(`http://ip-api.com/line`).then(res => res.text())
     }) 
 
     hyper.on('chat-update', async (message) => {
-        require('./Queen-Alexa.js')(Lanka, message)
+        require('./Queen-Alexa.js')(Alexa, message)
     })
     
     await hyper.connect({timeoutMs: 30*1000})

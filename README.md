@@ -40,22 +40,3 @@ QUEEN LANKA bot install කරගැනීමට ඔබට උපාංග ද�
         
 [`qr code scanin`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
-## `SESSION`
-
-[`Click Here`](https://github.com/sasmithasevidu/QUEEN-LANKA-CK/blob/main/session.json#L1)
-
-## `SETTING`
-
-- Owner number [Here](https://github.com/sasmithasevidu/QUEEN-LANKA-CK/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/sasmithasevidu/QUEEN-LANKA-CK/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/sasmithasevidu/QUEEN-LANKA-CK/blob/main/settings.json#L15)
-
-## `CHANGE DYNO`
-
-බොට් ඕෆ් කරන්න පුලුවන් web එක.
-
-----------
-
-<p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
-</p>
